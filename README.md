@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi! I'm Red Draagon ! 👋
 
-<!--
-**reddraagon/reddraagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🔭I’m currently working on CBDNS
+-🌱 I’m currently learning Python.
+-👯 I’m looking to collaborate on Research and Development,Youtube and Music Industry.
+-🤔 I’m looking for help with software development documentation.
+-💬 Ask me about Java or any programming / tech related stuffs.
+-📫 How to reach me: Instagram: red88draagon
+                    : Facebook : redd66raagon
+-😄 Pronouns: she/her/red/draagon.
+-⚡ Fun fact: I'll do lot of stuffs.
